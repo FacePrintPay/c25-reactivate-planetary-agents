@@ -12,6 +12,6 @@ chmod +x reactivate_planetary_agents.sh
 ```
 
 ## Source
-/data/data/com.termux/files/home/sovereign-gtp/src/AiKre8tive-Stargate/reactivate_planetary_agents.sh
+/data/data/com.termux/files/home/constellation25-mono/sovereign-gtp/src/AiKre8tive-Stargate/reactivate_planetary_agents.sh
 
 Built by Constellation 25 — FacePrintPay / Cygel White
